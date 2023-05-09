@@ -12,10 +12,9 @@
 
 - 🌱 I’m currently learning **Python for Backend Web development**
 
-- 💬 Ask me about **Coding**
+<!-- 💬 Ask me about **Coding**-->
 
 - 📫 How to reach me **sarakhamismostafa@gmail.com**
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sara khamis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara khamis" height="30" width="40" /></a>
