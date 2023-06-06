@@ -1,5 +1,5 @@
 
-<img align="center" alt="coding" width="1000" src="https://github.com/SaraKhamisMostafa/SaraKhamisMostafa/blob/main/blurred-content-banner.jpg">
+<!--img align="center" alt="coding" width="1000" src="https://github.com/SaraKhamisMostafa/SaraKhamisMostafa/blob/main/blurred-content-banner.jpg">-->
 
 <h1 align="center">Hi 👋, I'm Sara Khamis</h1>
 <h3 align="center">Fresh Grade in Ain Shams University Faculty of Computer and Information Science(Bioinformatics Department)</h3>
